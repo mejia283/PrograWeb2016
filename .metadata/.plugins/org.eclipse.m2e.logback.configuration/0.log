@@ -1,0 +1,9 @@
+2016-08-17 07:46:45,010 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\PrograWeb2016\PrograWeb2016\AppSesion2POO\pom.xml
+2016-08-17 07:46:53,338 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pe.edu.upc:AppSesion2POO:0.0.1-SNAPSHOT @ E:\PrograWeb2016\PrograWeb2016\AppSesion2POO\pom.xml.
+2016-08-17 07:46:55,491 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AppSesion2POO/src/main/java
+2016-08-17 07:46:55,493 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AppSesion2POO/src/test/java
+2016-08-17 07:46:56,540 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2016-08-17 07:46:57,537 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-17 07:46:57,541 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\PrograWeb2016\PrograWeb2016\AppSesion2POO\src\main\resources
+2016-08-17 07:46:57,543 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-17 07:46:57,544 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\PrograWeb2016\PrograWeb2016\AppSesion2POO\src\test\resources
