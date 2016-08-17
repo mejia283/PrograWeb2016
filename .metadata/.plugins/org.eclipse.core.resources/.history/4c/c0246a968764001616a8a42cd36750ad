@@ -11,4 +11,5 @@ public class appFruteriasUPC {
 		Fruta.LugarOrigen = "Otro Lugar";
 		System.out.println(Fruta.LugarOrigen);
 	}
+
 }

@@ -35,3 +35,7 @@
 2016-08-17 08:51:14,250 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\PrograWeb2016\PrograWeb2016\AppSesion2POO\src\main\resources
 2016-08-17 08:51:14,251 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-08-17 08:51:14,251 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\PrograWeb2016\PrograWeb2016\AppSesion2POO\src\test\resources
+2016-08-17 09:33:39,003 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-17 09:33:39,003 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\PrograWeb2016\PrograWeb2016\AppSesion2POO\src\main\resources
+2016-08-17 09:33:39,004 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-17 09:33:39,004 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\PrograWeb2016\PrograWeb2016\AppSesion2POO\src\test\resources
